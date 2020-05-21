@@ -1,0 +1,19 @@
+/*
+ * FormAddCourse css File
+*/
+
+.form-add-course {
+    /* propertys here */
+    /* border: 1px solid; */
+    /* border-right: 1px solid; */
+}
+
+.form-group {
+    margin-bottom: 0 !important;
+}
+
+.btn {
+    background: #A13C59 !important;
+    outline: 0;
+    border: 0;
+}

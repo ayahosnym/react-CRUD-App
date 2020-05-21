@@ -1,0 +1,18 @@
+/*
+ * Home css File
+*/
+
+.home {
+    /* propertys here */
+    height: 100vh;
+    padding: 5rem 0;
+    background: #EDC7B7;
+}
+.border-between{
+    position: relative;
+    border: 1px solid ;
+    width: 2px !important;
+    min-height: 30rem;
+    background-color: #168BAC;
+    border-radius: 15px;
+}

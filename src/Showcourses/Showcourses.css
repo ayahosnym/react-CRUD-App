@@ -1,0 +1,54 @@
+/*
+ * Showcourses css File
+*/
+
+.show-courses {
+    /* propertys here */
+}
+
+table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+thead th {
+    height: 25px;
+    text-align: left;
+}
+
+thead tr {
+    background: #A13C59;
+    color: white;
+    line-height: 2;
+}
+
+tbody button {
+    background: aliceblue;
+    padding: .2rem 1.3rem;
+    outline: none;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+tbody button.edit-course {
+    color: #ad7d8c;
+}
+
+tbody button.delete-course {
+    color: #AB3B61;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #cccccc;
+    padding: 1rem 0;
+}
+
+.space {
+    margin-bottom: 1.5rem;
+    display: inline-block;
+}
+
+.course-name{
+ color: #123D6A;
+}
